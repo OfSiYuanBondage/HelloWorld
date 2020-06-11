@@ -1,2 +1,2 @@
 # HelloWorld
-Repetition coding is the root of all evil
+Ideal is full, the code is very skinny.
