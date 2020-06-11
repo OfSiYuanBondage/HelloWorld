@@ -1,2 +1,2 @@
 # HelloWorld
-Embrace open source,Embrace you and me.
+Repetition coding is the root of all evil
